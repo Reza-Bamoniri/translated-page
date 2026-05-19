@@ -1,0 +1,35 @@
+{
+  "navbarHome": "خانه",
+  "navbarAbout": "درباره ما",
+  "navbarContact": "تماس با ما",
+
+  "heroTitle": "HTTP چیست؟ تعریف ساده و کاربرد آن",
+
+  "heroDescription":
+    "در ساده‌ترین تعریف برای HTTP چیست؟ باید بگوییم که HTTP یا HyperText Transfer Protocol پروتکل اصلی ارتباطی در وب است.",
+
+  "sectionTitle": "HTTP چگونه کار می‌کند؟",
+
+  "card1Title": "ساختار یک درخواست HTTP",
+
+  "card1Desc":
+    "این تبادل در چارچوب یک مکانیزم Handshaking انجام می‌شود؛ ابتدا کلاینت با ارسال درخواست ارتباط را آغاز می‌کند",
+
+  "card2Title": "ساختار یک پاسخ HTTP",
+
+  "card2Desc":
+    "یک درخواست HTTP از سه بخش اصلی تشکیل می‌شود. ",
+
+  "card3Title": "متدهای HTTP و کاربرد  آنها",
+
+  "card3Desc":
+    "در پروتکل HTTP، هر متد نقش مشخصی در مدیریت تبادل اطلاعات میان کلاینت و سرور دارد",
+
+  "footerTitle": "پروژه تمرینی ری اکت",
+
+  "footerDesc":
+    "ساخته شده برای یادگیری سیستم چند زبانه در React + TypeScript",
+
+  "changeFa": "فارسی",
+  "changeEn": "English"
+}

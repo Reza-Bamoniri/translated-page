@@ -1,0 +1,35 @@
+{
+  "navbarHome": "Home",
+  "navbarAbout": "About",
+  "navbarContact": "Contact",
+
+  "heroTitle": "What is HTTP? Simple definition and its application",
+
+  "heroDescription":
+    "What is the simplest definition for HTTP? We must say that HTTP or HyperText Transfer Protocol is the main communication protocol on the web.",
+
+  "sectionTitle": "How does HTTP work?",
+
+  "card1Title": "The structure of an HTTP request",
+
+  "card1Desc":
+    "This exchange is done in the framework of a Handshaking mechanism; First, the client starts the communication by sending a request",
+
+  "card2Title": "The structure of an HTTP response",
+
+  "card2Desc":
+    "An HTTP request consists of three main parts.",
+
+  "card3Title": "HTTP methods and their use",
+
+  "card3Desc":
+    "In the HTTP protocol, each method has a specific role in managing the exchange of information between the client and the server",
+
+  "footerTitle": "React Practice Project",
+
+  "footerDesc":
+    "Built for learning multilingual systems in React + TypeScript",
+
+  "changeFa": "Persian",
+  "changeEn": "English"
+}
